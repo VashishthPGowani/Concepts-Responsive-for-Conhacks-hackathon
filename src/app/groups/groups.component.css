@@ -1,0 +1,5 @@
+.card:hover, .card:focus {
+    transform: scale(1.05); /* Increase size on hover/focus */
+    transition: transform 0.3s; /* Add a smooth transition effect */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a box shadow */
+  }
